@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Work-Projects\\Android\\Sample-Chromium-WebRTC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_call.xml",
+        "source": "C:\\Work-Projects\\Android\\Sample-Chromium-WebRTC\\app\\src\\main\\res\\layout\\fragment_call.xml"
+    },
+    {
+        "merged": "C:\\Work-Projects\\Android\\Sample-Chromium-WebRTC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_call.xml",
+        "source": "C:\\Work-Projects\\Android\\Sample-Chromium-WebRTC\\app\\src\\main\\res\\layout\\activity_call.xml"
+    },
+    {
+        "merged": "C:\\Work-Projects\\Android\\Sample-Chromium-WebRTC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_hud.xml",
+        "source": "C:\\Work-Projects\\Android\\Sample-Chromium-WebRTC\\app\\src\\main\\res\\layout\\fragment_hud.xml"
+    },
+    {
+        "merged": "C:\\Work-Projects\\Android\\Sample-Chromium-WebRTC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_connect.xml",
+        "source": "C:\\Work-Projects\\Android\\Sample-Chromium-WebRTC\\app\\src\\main\\res\\layout\\activity_connect.xml"
+    }
+]
